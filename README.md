@@ -10,3 +10,4 @@ Zig vs. clang:
 
 Partial output when run:
 ![alt text](https://github.com/tpfaff100/fancybitflipper/blob/main/zigcdemo2.jpg?raw=true)
+
